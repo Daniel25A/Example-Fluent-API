@@ -1,0 +1,7 @@
+c:\users\oscar\source\repos\Ejemplo Api Fluente\Ejemplo Api Fluente\bin\Debug\Ejemplo Api Fluente.exe.config
+c:\users\oscar\source\repos\Ejemplo Api Fluente\Ejemplo Api Fluente\bin\Debug\Ejemplo Api Fluente.exe
+c:\users\oscar\source\repos\Ejemplo Api Fluente\Ejemplo Api Fluente\bin\Debug\Ejemplo Api Fluente.pdb
+c:\users\oscar\source\repos\Ejemplo Api Fluente\Ejemplo Api Fluente\obj\Debug\Ejemplo Api Fluente.csprojResolveAssemblyReference.cache
+c:\users\oscar\source\repos\Ejemplo Api Fluente\Ejemplo Api Fluente\obj\Debug\Ejemplo Api Fluente.csproj.CoreCompileInputs.cache
+c:\users\oscar\source\repos\Ejemplo Api Fluente\Ejemplo Api Fluente\obj\Debug\Ejemplo Api Fluente.exe
+c:\users\oscar\source\repos\Ejemplo Api Fluente\Ejemplo Api Fluente\obj\Debug\Ejemplo Api Fluente.pdb
